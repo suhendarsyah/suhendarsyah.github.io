@@ -1,0 +1,44 @@
+
+
+
+.jumbotron{
+    padding-top: 5rem;
+    background-color: #e2edff;
+}
+
+/* .jumbotron img {
+    margin-top: 100px;
+} */
+
+.navbar-brand {
+    font-family: Viga;
+    font-size: 32px;
+}
+
+.nav-link {
+    text-transform: uppercase;
+    margin-right: 30px;
+}
+
+.gambarPeta{
+    width: fit-content;
+    margin: auto;
+}
+
+.tombolGaleriPeta{
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+.bodyGaleri a{
+    text-decoration: none;
+    margin: auto;
+    justify-content: center;
+    color: white;
+    font-weight: 600;
+    display: block;
+    width: 200px;
+
+}
